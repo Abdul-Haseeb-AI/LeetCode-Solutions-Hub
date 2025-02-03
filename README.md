@@ -10,7 +10,7 @@ This repository contains a collection of my solutions to various LeetCode proble
 
 ## 🔧 Structure of the Repository
 
-```plaintext
+``'
 LeetCode-Solutions-Hub/ 🔐
 ├── Arrays/ 📊
 ├── Dynamic Programming/ 💪
@@ -19,6 +19,7 @@ LeetCode-Solutions-Hub/ 🔐
 ├── Strings/ 📜
 └── Others/ 🔎
 '''
+
 ## 🔍 Usage
 Navigate through the folders to explore the problem sets. Each solution is contained in its own file, accompanied by:
 
